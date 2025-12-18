@@ -19,9 +19,6 @@
  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
 
-## 🌱 Currently Learning
-
-- ![DSA](https://img.shields.io/badge/-DSA-3776AB?logo=python&logoColor=white) **Data Structures and Algorithms (DSA)**
 
 ## 💡 Interests
 
