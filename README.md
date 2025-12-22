@@ -8,7 +8,7 @@
 🚀 I build scalable web applications, analyze data, and experiment with AI to solve real-world problems.
 
 [![Email](https://img.shields.io/badge/Email-yuvaraj79043%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvaraj79043@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvaraj%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj-m-515572259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvaraj%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-m-2b311726a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yuvarajm--19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvarajm-19)
 
 </div>
@@ -111,7 +111,7 @@
 ### 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-yuvaraj79043%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvaraj79043@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvaraj%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuvaraj-m-515572259)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvaraj%20M-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-m-2b311726a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Yuvarajm--19-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvarajm-19)
 
 ⭐ **Open to exciting opportunities and collaborative projects!** ⭐
