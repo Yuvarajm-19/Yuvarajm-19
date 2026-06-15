@@ -17,7 +17,7 @@
 
 ## 📊 About Me
 
-- 🎯 **Final-year B.Tech student** specializing in AI & Data Science
+- 🎯 **Graduate B.Tech student** specializing in AI & Data Science
 - 🚀 Seeking **Full Stack / Backend / Data Engineering roles**
 - 💡 Passionate about building **scalable applications** and **data-driven solutions**
 - 📈 **Problem-solving enthusiast** with strong DSA foundation
