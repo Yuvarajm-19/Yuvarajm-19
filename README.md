@@ -1,5 +1,5 @@
 <div align="center">
-
+<img src="./github-header-banner.png" width="100%" alt="Banner"/>
 # 👋 Hi, I'm Yuvaraj M  
 
 🎓 **B.Tech – Artificial Intelligence & Data Science**  
