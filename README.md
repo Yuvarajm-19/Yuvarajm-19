@@ -165,7 +165,7 @@ Participating in the broader developer community through open-source engagement.
 
 <div align="center">
 
-![LeetCode Stats](https://leetcode.card.workers.dev/yuvaraj79043?theme=dark&font=source_code_pro&extension=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yuvaraj79043?theme=dark&font=source_code_pro&ext=activity)
 
 </div>
 
